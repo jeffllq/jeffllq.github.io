@@ -11,6 +11,8 @@ I'm a fourth year Phd student from [College of Computer Science](http://www.cs.c
 
 I'm fortunate to be advised by [Linjiang Zheng](http://www.cs.cqu.edu.cn/info/1320/4113.htm) of [KEY LABORATORY OF DEPENDABLE SERvICE COMPUTING IN cYBER PHYSICAL SOCIETY( CHONGQING UNIVERSITY) MINISTRY OF EDUCATION](https://cps.cqu.edu.cn).
 
+---
+**Contact
 [Education Email](jefflongquan@stu.cqu.edu.cn)
 
 [Personal Email](jefflongquan@foxmai.com)
